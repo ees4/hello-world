@@ -1,2 +1,3 @@
 # hello-world
-# setting up for cs 237
+
+setting up for cs 237
